@@ -12,7 +12,7 @@ Este proyecto es una API de gestión de clientes desarrollada con Spring Boot y 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/dvrvk/dvrvk-spring-data-rest.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
